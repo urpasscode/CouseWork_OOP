@@ -1,0 +1,10 @@
+C:\Users\Админ\Documents\ООП\курсовая работа\CourseWork\CourseWork\bin\Debug\CourseWork.exe.config
+C:\Users\Админ\Documents\ООП\курсовая работа\CourseWork\CourseWork\bin\Debug\CourseWork.exe
+C:\Users\Админ\Documents\ООП\курсовая работа\CourseWork\CourseWork\bin\Debug\CourseWork.pdb
+C:\Users\Админ\Documents\ООП\курсовая работа\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.AssemblyReference.cache
+C:\Users\Админ\Documents\ООП\курсовая работа\CourseWork\CourseWork\obj\Debug\CourseWork.Form1.resources
+C:\Users\Админ\Documents\ООП\курсовая работа\CourseWork\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+C:\Users\Админ\Documents\ООП\курсовая работа\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+C:\Users\Админ\Documents\ООП\курсовая работа\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Documents\ООП\курсовая работа\CourseWork\CourseWork\obj\Debug\CourseWork.exe
+C:\Users\Админ\Documents\ООП\курсовая работа\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
